@@ -29,3 +29,9 @@
 pandas
 
 matplotlib
+
+sklearn
+
+numpy
+
+seaborn
